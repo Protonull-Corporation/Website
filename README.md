@@ -1,7 +1,5 @@
-# bitrock-website
-![./src/.vuepress/public/BitrockLogo.svg](./src/.vuepress/public/BitrockLogo.svg)
+# protonull-website
 
-[![Build Status](https://travis-ci.org/bitrockteam/bitrock-website.svg?branch=master)](https://travis-ci.org/bitrockteam/bitrock-website)
 
 This website is a [VuePress](https://v1.vuepress.vuejs.org/) instance with a custom theme applied on it, you can read the [official documentation](https://v1.vuepress.vuejs.org/s) to learn how to edit contents or how the theme works.
 
